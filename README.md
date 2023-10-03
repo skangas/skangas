@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+GNU Emacs (co-)maintainer.
+
+Emacs is not developed on GitHub so my contributions aren't displayed in the below graph. 🤷‍♂️ They can be seen [here](https://github.com/emacs-mirror/emacs/graphs/contributors).
+
+How to reach me:
+- 📫 LinkedIn: https://www.linkedin.com/in/stefan-kangas
+
 <!--
 **skangas/skangas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
